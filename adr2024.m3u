@@ -34,7 +34,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718892840/ei/y
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718892911/ei/D-VzZrbLI76o3LUPhr2sgA0/ip/103.153.66.213/id/Ce16UDCT9iM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f_lNo2RqPtzwsbPMES3VZazNdaN8lrdwEvTlJCY2Lyhri0gCdyLNj7bVS0FC5gXQ7vcmFC69/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgBTUZijcmEaZ9aVspsPwgmQ7y7JdmC_YU6r4ilcnwu3ACIQDwdebxTmy7YWB_hmyCKc-RdGZ6qYCNMGC0lfPOeekXeQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sKPJXcq/20240430-075119.png"group-title="NEWS",ATN News
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239075
+http://xtv.ooo:8080/live/mahendra44/mhnd1234/245905.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8jkRyK/20240430-083154.png"group-title="NEWS",DBC News
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
