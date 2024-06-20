@@ -1,14 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyh-Y2PnuEqq6FqcZ5u8DZWEt4cg3h98QbBRLxJ6okwg&s"group-title="Movie Hut",Crew (2024)
-http://10.100.100.12/data2/Movies/2.Hindi.Movies/Crew%20(2024)%20HDTS.mkv
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdLDjbHz4MdsMAsBfcWhHpyzoeCvGu6YuXS03xmDlKAg&s"group-title="Movie Hut",Teri Baaton Mein Aisa Uljha Jiya
-http://10.100.100.12/data2/Movies/2.Hindi.Movies/Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya%20(2024).mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsbDBANXRhng2KEyLqu90cm5yzOuA46m-QwDycDd5zQQ&s"group-title="Movie Hut",Hanu Man (2024)
-http://10.100.100.12/data2/Movies/3.South.Indian.Movies/Hanu%20Man%20(2024)%20Dual%20Audio.mkv
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsbDBANXRhng2KEyLqu90cm5yzOuA46m-QwDycDd5zQQ&s"group-title="Movie Hut",Mimi (2021)
 http://103.145.232.246/Data/movies/Bollywood/2021/Mimi%20(2021)/[Cinevez]%20-%20Mimi%20(2021)%20720p%20Hindi%20HDRip%20x264%20AAC%201.3GB.mp4
 
@@ -28,7 +19,7 @@ http://livetvbox.live:8080/live/Derrick/Derrick/130714.m3u8
 https://himel~op@sports.lvyclv.com/live/m33292792/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CvWhgdq/image-search-1713978245283.png"group-title="NEWS",Somoy Tv
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718891024/ei/sN1zZvbuNP3x4-EP4qOFiAw/ip/103.153.66.215/id/mF6zTmiFaAs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fzz_pf2_PdNEdBLs27_hlpOOknu6a7vjrXO58zH1nyHWF7QjE8q20o9In3kHOhx9XLTS8mZU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKkUhJrjd1mm4Ymf552K6l80mydNS5dYIqv0yMqQtgO5AiEAnCF1MtgxBy8ThWgT3hffO9vX8Z8nOeUEaAUf3hiyDU8%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3f8H2HC/20240430-083911.png"group-title="NEWS",BBC
 http://195.181.175.69:2080/67/index.m3u8
