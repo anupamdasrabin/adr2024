@@ -21,29 +21,29 @@ https://himel~op@sports.lvyclv.com/live/m33292792/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CvWhgdq/image-search-1713978245283.png"group-title="NEWS",Somoy Tv
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718891024/ei/sN1zZvbuNP3x4-EP4qOFiAw/ip/103.153.66.215/id/mF6zTmiFaAs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fzz_pf2_PdNEdBLs27_hlpOOknu6a7vjrXO58zH1nyHWF7QjE8q20o9In3kHOhx9XLTS8mZU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKkUhJrjd1mm4Ymf552K6l80mydNS5dYIqv0yMqQtgO5AiEAnCF1MtgxBy8ThWgT3hffO9vX8Z8nOeUEaAUf3hiyDU8%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3f8H2HC/20240430-083911.png"group-title="NEWS",BBC
-http://195.181.175.69:2080/67/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png"group-title="NEWS",Al Jazeera English
-http://xtv.ooo:8080/Sehrish/12345/355622
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SymD25x/20240428-030221.png"group-title="NEWS",Channel 24
-http://cdn01.palki.tv/live/Channel24-M/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718892647/ei/B-RzZvKoJOmx88EP_ee0yAw/ip/103.153.66.213/id/IamHgf1Jruw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fyVSh_2HP_4N_mFVBnK3-HbwcNKnE7lSnQPmnasyiC2F2UlBkhNPwL-0gegnT8N8hpR4aa1k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQTpxE-uIMr1xC_n5UzONNdcVwey_1Ai1JCrKEuSJnXkCIFrcy3wj7MIoQovjMYvCYxwLjjiKpVi_pFtgg3B5kX79/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NttrW6h/image-search-1713978282196.png"group-title="NEWS",Indepenent Tv
-https://ythls-v2.onrender.com/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718892758/ei/duRzZs_6OsfW3LUP9cqN6A8/ip/103.153.66.213/id/vHEp6fM86qI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f87Yt460IpABef-00TuNGdPk7CUoCDU8AIE-f3wDkmcMSO8CkPaslyOyWk0tOhJ1GuuiBLfx/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXxWwLqXO_GHwVG99zYxWnPI-saUQGA2-3zSh9EguuD0CIDheQhSncAm4wAWVJGOoW_NYQcn7HoP2hQ7PwMvfX4xC/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8VV6kV/image-search-1714012548366.jpg"group-title="NEWS",Jamuna Tv
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718892840/ei/yORzZom-GPznjuMPrO2G4A4/ip/103.153.66.213/id/vVEpSqd033o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fwEsIHg3oZWqp3EUy1hePqWJpfcbmrqyOpEoq6anZEcvLE0uWD8QR-uePZm6UsVJS-Jq0O5r/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgFD6BMXbVVrUP6kB4Xc7byujzkvvF3pVEWMuFdPyljjkCIFkIkxTQuQWNBd4n6jYdwA2U4ep4pX5ePl65g7YQh4HL/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qvTfn6/image-search-1713978430151.png"group-title="NEWS",Ekattor Tv
-http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718892911/ei/D-VzZrbLI76o3LUPhr2sgA0/ip/103.153.66.213/id/Ce16UDCT9iM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f_lNo2RqPtzwsbPMES3VZazNdaN8lrdwEvTlJCY2Lyhri0gCdyLNj7bVS0FC5gXQ7vcmFC69/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgBTUZijcmEaZ9aVspsPwgmQ7y7JdmC_YU6r4ilcnwu3ACIQDwdebxTmy7YWB_hmyCKc-RdGZ6qYCNMGC0lfPOeekXeQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sKPJXcq/20240430-075119.png"group-title="NEWS",ATN News
 http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8jkRyK/20240430-083154.png"group-title="NEWS",DBC News
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3f8H2HC/20240430-083911.png"group-title="NEWS",BBC
+http://195.181.175.69:2080/67/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png"group-title="NEWS",Al Jazeera English
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718892489/ei/aeNzZpbaBeXXjuMPu_2KoA0/ip/103.153.66.213/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f5ZCtMZf6zHAcJwMl3K43NgYr0K0YYF220F4S0vbCnOzyP1gxxIDMEx7LObsrhs3zoPUftxQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPFkYIrEd-mHWq8kfbzkdpsWCcls5ypBhXMFZwTgU0LnAiEAzmA7Oszf-Cp8HCnThjLEwZ74sSKlc9D947DGdLtRCww%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mg15t8NJ/images-1-4.png"group-title="Bangladeshi",BTV
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
