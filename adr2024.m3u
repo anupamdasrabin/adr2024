@@ -1,5 +1,12 @@
 #EXTM3U
 
+# ===== Movies =====
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thehansindia.com%2Fcinema%2Ftollywood%2Fkalki-2898-ad-locks-release-date-850946&psig=AOvVaw05PbCitp_jF4WM1mblh7UQ&ust=1725125530501000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLip3MefnYgDFQAAAAAdAAAAABAJ"group-title="Movie Hut",KALKI 2898 (2024)
+http://103.145.232.246/Data/movies/Bollywood/2024/Kalki%202898%20AD%20(2024)/Kalki%202898%20AD.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStoC0oIx_55SnOY-Rr09foElIUy5Um7WuvvA&s"group-title="Movie Hut",RAAYAN
+http://103.145.232.246/Data/movies/Bollywood/2024/Raayan%20(2024)/Raayan.mp4
+
 # ===== Live TV =====
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CvWhgdq/image-search-1713978245283.png"group-title="NEWS",Somoy Tv
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
@@ -275,10 +282,3 @@ http://xtv.ooo:8080/Sehrish/12345/346376
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20230513/ourmid/pngtree-cricket-logo-vector-and-clipart-with-transparent-background-for-free-download-png-image_7095421.png"group-title="Sports",jio Cricket
 http://xtv.ooo:8080/Sehrish/12345/206297
-
-# ===== Movies =====
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsbDBANXRhng2KEyLqu90cm5yzOuA46m-QwDycDd5zQQ&s"group-title="Movie Hut",Mimi (2021)
-http://103.145.232.246/Data/movies/Bollywood/2021/Mimi%20(2021)/[Cinevez]%20-%20Mimi%20(2021)%20720p%20Hindi%20HDRip%20x264%20AAC%201.3GB.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsbDBANXRhng2KEyLqu90cm5yzOuA46m-QwDycDd5zQQ&s"group-title="Movie Hut",Animated Movies
-http://xtv.ooo:8080/Sehrish/12345/362999
