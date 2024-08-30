@@ -1,11 +1,6 @@
-﻿#EXTM3U
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsbDBANXRhng2KEyLqu90cm5yzOuA46m-QwDycDd5zQQ&s"group-title="Movie Hut",Mimi (2021)
-http://103.145.232.246/Data/movies/Bollywood/2021/Mimi%20(2021)/[Cinevez]%20-%20Mimi%20(2021)%20720p%20Hindi%20HDRip%20x264%20AAC%201.3GB.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsbDBANXRhng2KEyLqu90cm5yzOuA46m-QwDycDd5zQQ&s"group-title="Movie Hut",Animated Movies
-http://xtv.ooo:8080/Sehrish/12345/362999
-
+# ===== Live TV =====
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CvWhgdq/image-search-1713978245283.png"group-title="NEWS",Somoy Tv
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3f8H2HC/20240430-083911.png"group-title="NEWS",BBC
@@ -280,3 +275,10 @@ http://xtv.ooo:8080/Sehrish/12345/346376
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20230513/ourmid/pngtree-cricket-logo-vector-and-clipart-with-transparent-background-for-free-download-png-image_7095421.png"group-title="Sports",jio Cricket
 http://xtv.ooo:8080/Sehrish/12345/206297
+
+# ===== Movies =====
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsbDBANXRhng2KEyLqu90cm5yzOuA46m-QwDycDd5zQQ&s"group-title="Movie Hut",Mimi (2021)
+http://103.145.232.246/Data/movies/Bollywood/2021/Mimi%20(2021)/[Cinevez]%20-%20Mimi%20(2021)%20720p%20Hindi%20HDRip%20x264%20AAC%201.3GB.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsbDBANXRhng2KEyLqu90cm5yzOuA46m-QwDycDd5zQQ&s"group-title="Movie Hut",Animated Movies
+http://xtv.ooo:8080/Sehrish/12345/362999
