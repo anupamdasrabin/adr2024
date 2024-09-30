@@ -1,12 +1,16 @@
 #EXTM3U
 
 # ===== Movies =====
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStoC0oIx_55SnOY-Rr09foElIUy5Um7WuvvA&s"group-title="Movie Hut",RAAYAN (2024)
-http://103.145.232.246/Data/movies/Bollywood/2024/Raayan%20(2024)/Raayan.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStoC0oIx_55SnOY-Rr09foElIUy5Um7WuvvA&s"group-title="Movie Hut",RAAYAN (2024)
-http://10.100.100.12/data1/MOVIE%20COLLECTION/SOUTH%20INDIAN/2024/Raayan%20(2024)%20Dual%20Audio.mkv
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ7LoV9Fqv-5AEiUisodXbQfo2YV5toM-dS_XofKeYY1Nla3mmLIBtLUUnYm0XZjBX-50&usqp=CAU"group-title="Movie Hut",RATHNAM (2024)
+http://103.145.232.246/Data/movies/Hindi%20dubbed/Rathnam%20(2024)/Rathnam.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA1NmUxYzItZmVmNy00YmQxLTk4Y2UtZjVkMWUwMWQ5N2IxXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg"group-title="Movie Hut",Stree 2(2024)
+http://103.145.232.246/Data/movies/Bollywood/2024/Stree%202%20(2024)/Stree%202.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/The_Greatest_of_All_Time.jpg"group-title="Movie Hut",The Greatest of all time (2024)
+http://103.145.232.246/Data/movies/Tamil/2024/The%20Greatest%20of%20All%20Time%20(2024)/The%20Greatest%20of%20All%20Time.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Devara_Part_1.jpg",DEVARA: PART 1 (2024)
+http://10.100.100.12/data1/MOVIE%20COLLECTION/SOUTH%20INDIAN/2024/Devara%20Part%201%20(2024)%20Hindi%20Dubbed%20CAMRip.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Ruslaan_poster.jpg"group-title="Movie Hut",RUSLAAN (2024)
+http://10.100.100.12/data1/MOVIE%20COLLECTION/SOUTH%20INDIAN/2024/Devara%20Part%201%20(2024)%20Hindi%20Dubbed%20CAMRip.mkv
 # ===== Live TV =====
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CvWhgdq/image-search-1713978245283.png"group-title="NEWS",Somoy Tv
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
