@@ -13,17 +13,17 @@ http://10.100.100.12/data1/MOVIE%20COLLECTION/SOUTH%20INDIAN/2024/Devara%20Part%
 http://10.100.100.12/data1/MOVIE%20COLLECTION/HINDI/2024/Ruslaan%20(2024).mp4
 # ===== Live TV =====
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CvWhgdq/image-search-1713978245283.png"group-title="NEWS",Somoy Tv
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+https://www.youtube.com/watch?v=sNQUQx_fzlU
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3f8H2HC/20240430-083911.png"group-title="NEWS",BBC
 http://195.181.175.69:2080/67/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png"group-title="NEWS",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/06.m3u8
+https://www.youtube.com/watch?v=gCNeDWCI0vo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SymD25x/20240428-030221.png"group-title="NEWS",Channel 24
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_24
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NttrW6h/image-search-1713978282196.png"group-title="NEWS",Indepenent Tv
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=independent_tv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8VV6kV/image-search-1714012548366.jpg"group-title="NEWS",Jamuna Tv
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+https://www.youtube.com/watch?v=r4x1Z63sjZM
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qvTfn6/image-search-1713978430151.png"group-title="NEWS",Ekattor Tv
 http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sKPJXcq/20240430-075119.png"group-title="NEWS",ATN News
